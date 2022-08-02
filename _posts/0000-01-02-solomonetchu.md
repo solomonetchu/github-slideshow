@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I love front End programming
+I am Enjoying my FrontEnd programming.
 Use the left arrow to go back!
